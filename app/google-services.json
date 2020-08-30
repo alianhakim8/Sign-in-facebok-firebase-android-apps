@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999584162758",
+    "firebase_url": "https://sign-in-facebook-firebase-api.firebaseio.com",
+    "project_id": "sign-in-facebook-firebase-api",
+    "storage_bucket": "sign-in-facebook-firebase-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999584162758:android:8634b208b2dcf2281288c7",
+        "android_client_info": {
+          "package_name": "com.alian.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999584162758-m02q2u8b6v5s98oe1sg69rdhfnspu8ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQovzF-PUd9Kv9bNxgy58RabYfB35-N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999584162758-m02q2u8b6v5s98oe1sg69rdhfnspu8ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
