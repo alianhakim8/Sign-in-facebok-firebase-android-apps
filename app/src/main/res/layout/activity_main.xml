@@ -29,4 +29,20 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
+    <Button
+        android:id="@+id/customFbButton"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/custom_fb_button"
+        android:drawableStart="@drawable/ic_facebook"
+        android:paddingLeft="50dp"
+        android:text="Sign In With Facebook"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
